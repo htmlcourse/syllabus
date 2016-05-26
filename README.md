@@ -70,7 +70,7 @@ _If you have a long list of readings, please use an Appendix at the back of the 
 * The book of CSS3 : a developer's guide to the future of web design, 2nd ed. 
   by Peter Gasston. San Francisco : No Starch Press, [2015].
   Available online: 
-  [Books24x7](http://0-www.books24x7.com.library.lemoyne.edu/marc.asp?bookid=75479) or 
+  [Books24x7](http://0-library.books24x7.com.library.lemoyne.edu/toc.asp?bookid=75479) or 
   [eBrary](http://0-site.ebrary.com.library.lemoyne.edu/lib/lemoyne/Doc?id=10986551).
 
 
